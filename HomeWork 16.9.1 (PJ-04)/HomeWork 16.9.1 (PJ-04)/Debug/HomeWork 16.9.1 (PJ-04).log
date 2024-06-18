@@ -1,0 +1,8 @@
+﻿  Chat.cpp
+D:\VS 2019\С++\HomeWork 16.9.1 (PJ-04)\HomeWork 16.9.1 (PJ-04)\Chat.cpp(131,74): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\VS 2019\С++\HomeWork 16.9.1 (PJ-04)\HomeWork 16.9.1 (PJ-04)\Chat.cpp(148,73): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\VS 2019\С++\HomeWork 16.9.1 (PJ-04)\HomeWork 16.9.1 (PJ-04)\Chat.cpp(183,42): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\VS 2019\С++\HomeWork 16.9.1 (PJ-04)\HomeWork 16.9.1 (PJ-04)\Chat.cpp(314,44): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  HomeWork 16.9.1 (PJ-04).vcxproj -> D:\VS 2019\С++\HomeWork 16.9.1 (PJ-04)\Debug\HomeWork 16.9.1 (PJ-04).exe
